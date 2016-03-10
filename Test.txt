@@ -1,3 +1,4 @@
 Hello world of GIT!
 Let start journey to  GIT!
-It is easy to create a new branch or switch to another branch. master.
+It is easy to create a new branch or switch to another branch, really.
+
