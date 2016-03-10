@@ -1,2 +1,3 @@
 Hellow world of GIT!
 Let start journey to  GIT!
+It is easy to create/switch branch(es).
